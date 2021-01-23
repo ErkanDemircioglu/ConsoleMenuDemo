@@ -1,0 +1,11 @@
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\bin\Debug\netcoreapp2.1\ConsoleMenu.deps.json
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\bin\Debug\netcoreapp2.1\ConsoleMenu.runtimeconfig.json
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\bin\Debug\netcoreapp2.1\ConsoleMenu.runtimeconfig.dev.json
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\bin\Debug\netcoreapp2.1\ConsoleMenu.dll
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\bin\Debug\netcoreapp2.1\ConsoleMenu.pdb
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\obj\Debug\netcoreapp2.1\ConsoleMenu.csprojAssemblyReference.cache
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\obj\Debug\netcoreapp2.1\ConsoleMenu.csproj.CoreCompileInputs.cache
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\obj\Debug\netcoreapp2.1\ConsoleMenu.AssemblyInfoInputs.cache
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\obj\Debug\netcoreapp2.1\ConsoleMenu.AssemblyInfo.cs
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\obj\Debug\netcoreapp2.1\ConsoleMenu.dll
+C:\Users\Erkan\source\repos\ConsoleMenu\ConsoleMenu\obj\Debug\netcoreapp2.1\ConsoleMenu.pdb
